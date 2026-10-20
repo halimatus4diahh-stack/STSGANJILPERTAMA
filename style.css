@@ -14,7 +14,7 @@
         
         /* mengubah div menjadi tampilan kartu */
         div.kartu-profil {
-          background-color: #EBBAE8;
+          background-color: #BBE1FF;
           width: 250px;
           margin: 20px auto;
           padding: 20px;
@@ -45,7 +45,7 @@
         }
         
         div.kartu-kontak {
-          background-color: #FFD6F9;
+          background-color: #FFD0F7;
           width: 80%;
           margin: 0 auto;
           /* elemen rata tengah horizontal */
